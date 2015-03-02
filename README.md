@@ -1,2 +1,3 @@
 # git-example-remote
-This is a simple description.
+
+The description should be expanded to detail the project.
